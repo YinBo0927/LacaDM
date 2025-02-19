@@ -1,3 +1,3 @@
 # LacaDM
 
-The code will be release soon.
+The code will be public after acceptance
