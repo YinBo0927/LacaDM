@@ -3,7 +3,7 @@
 PyTorch implementation of "Latent Causal Diffusion Model for Multiobjective Reinforcement Learning"
 
 ## Features
-- Complete implementation of LaCaDM architecture
+- Complete implementation of LacaDM architecture
 - Supports both continuous and discrete environments
 - Integrated Latent Causal Learning (LCL)
 - Modular design for easy extension
