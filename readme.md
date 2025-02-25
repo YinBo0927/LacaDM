@@ -1,4 +1,4 @@
-# LaCaDM Implementation
+# LacaDM Implementation
 
 PyTorch implementation of "Latent Causal Diffusion Model for Multiobjective Reinforcement Learning"
 
